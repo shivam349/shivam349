@@ -8,7 +8,7 @@
 📍 Bengaluru, India &nbsp;|&nbsp; 🎓 Birla Institute of Technology, Mesra
 
 <p align="center">
-  <a href="https://linkedin.com/in/shivamgarg-21b25a1b4" target="_blank">
+  <a href="https://www.linkedin.com/in/shivam-garg-21b25a1b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:shivamgarg1515@gmail.com">
@@ -151,6 +151,6 @@ Data Analyst and AI Developer with **2+ years of experience** architecting SQL- 
 
 <br/><br/>
 
-📫 **Interested in collaborating or discussing opportunities?** Feel free to connect on [LinkedIn](https://linkedin.com/in/shivamgarg-21b25a1b4) or reach out directly at [shivamgarg1515@gmail.com](mailto:shivamgarg1515@gmail.com)!
+📫 **Interested in collaborating or discussing opportunities?** Feel free to connect on [LinkedIn](https://www.linkedin.com/in/shivam-garg-21b25a1b4/) or reach out directly at [shivamgarg1515@gmail.com](mailto:shivamgarg1515@gmail.com)!
 
 </div>
