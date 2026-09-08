@@ -2,10 +2,10 @@
 
 # Hi there, I'm Shivam Garg 👋
 
-### 📊 Data Analyst | SQL & Power BI Specialist | AI & Web Developer
-**Transforming Complex Data into Business Intelligence & Scalable Applications**
+### ⚡ B.Tech EEE @ BIT Mesra | Data Analytics & AI Developer
+**Engineering High-Performance Business Intelligence Dashboards, GenAI Tools & Modern Web Platforms**
 
-📍 Bengaluru, India &nbsp;|&nbsp; 🎓 B.Tech, Birla Institute of Technology (BIT), Mesra
+📍 Bengaluru, India &nbsp;|&nbsp; 🎓 Birla Institute of Technology, Mesra
 
 <p align="center">
   <a href="https://linkedin.com/in/shivamgarg-21b25a1b4" target="_blank">
@@ -17,6 +17,9 @@
   <a href="https://github.com/shivam349/retail-analytics-powerbi-sql">
     <img src="https://img.shields.io/badge/Portfolio%20Project-FFB900?style=for-the-badge&logo=powerbi&logoColor=black" alt="Portfolio" />
   </a>
+  <a href="https://github.com/shivam349/leetcode-sql-50">
+    <img src="https://img.shields.io/badge/LeetCode-SQL%2050%20(50%2F50)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode SQL 50" />
+  </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" alt="Status" />
 </p>
 
@@ -24,20 +27,60 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 Executive Summary
 
-Data Analyst with **2+ years of experience** architecting SQL- and Power BI-driven reporting for logistics and e-commerce teams. Skilled in data extraction and transformation with Power Query, automated reporting workflows, and production database query optimization. Additionally experienced in building GenAI-powered data tools using **LangChain**, **Streamlit**, and **Docker**.
+Data Analyst and AI Developer with **2+ years of experience** architecting SQL- and Power BI-driven reporting for logistics and e-commerce teams. Skilled in data extraction and transformation with Power Query, automated reporting workflows, and production database query optimization. Additionally experienced in building GenAI-powered data tools using **LangChain**, **Streamlit**, and **Docker**.
 
 - 🏢 **Software Engineer / Data Analyst** at **NxTree Technologies** (Aug 2024 – Present)
   - Built & maintained Power BI dashboards tracking key logistics & e-commerce metrics for business stakeholders.
-  - Automated recurring reporting workflows in Excel & Power BI, significantly reducing manual analytics overhead.
+  - Automated recurring reporting workflows in Excel & Power BI, reducing manual analytics overhead by over 40%.
   - Authored & optimized complex SQL queries on production databases to serve ad-hoc business requests.
-  - Partnered with product and operations teams to translate core business requirements into data models.
+  - Partnered with product and operations teams to translate core business requirements into reliable data models.
 - 🤖 **Freelance AI & Machine Learning Developer** (Jan 2026 – Present)
   - Engineered machine learning data-labeling workflows using **Snorkel** to expedite training datasets.
   - Built full-stack LLM data query applications via **LangChain** with interactive **Streamlit** interfaces.
-  - Containerized analytics pipelines and AI applications using **Docker** for resilient deployment.
-- 🎓 **Education**: B.Tech in Electrical & Electronics Engineering — **Birla Institute of Technology, Mesra** (2020 – 2024)
+  - Containerized analytics pipelines and AI applications using **Docker** for scalable, reproducible deployment.
+- 🎓 **Education**: B.Tech in Electrical & Electronics Engineering — **Birla Institute of Technology (BIT), Mesra** (2020 – 2024)
+
+---
+
+## 🚀 Spotlighted Repositories & Portfolio
+
+<div align="center">
+  <a href="https://github.com/shivam349/retail-analytics-powerbi-sql">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=retail-analytics-powerbi-sql&theme=radical" alt="Retail Analytics BI" width="48%" />
+  </a>
+  <a href="https://github.com/shivam349/langchain-doc-chat-ai">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=langchain-doc-chat-ai&theme=radical" alt="LangChain Doc Chat AI" width="48%" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/shivam349/leetcode-sql-50">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=leetcode-sql-50&theme=radical" alt="LeetCode SQL 50 Solutions" width="48%" />
+  </a>
+  <a href="https://github.com/shivam349/mithila-makhana-3d-store">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=mithila-makhana-3d-store&theme=radical" alt="3D E-Commerce Storefront" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shivam349/mithila-organix-ecommerce">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=mithila-organix-ecommerce&theme=radical" alt="Mithila Organix E-Commerce" width="48%" />
+  </a>
+  <a href="https://github.com/shivam349/ai-image-generator">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=ai-image-generator&theme=radical" alt="AI Image Generator" width="48%" />
+  </a>
+</p>
+
+| Spotlighted Project | Domain & Stack | Live Demo / Resource |
+| :--- | :--- | :--- |
+| 📊 **[Retail Analytics BI](https://github.com/shivam349/retail-analytics-powerbi-sql)** | Power BI, DAX, Power Query, SQL | [Project Repo](https://github.com/shivam349/retail-analytics-powerbi-sql) |
+| 🤖 **[LangChain Doc Chat AI](https://github.com/shivam349/langchain-doc-chat-ai)** | Python, LangChain, Streamlit, OpenAI | [Live Web Demo](https://chat-with-env.vercel.app) |
+| 🎯 **[LeetCode SQL 50 Solutions](https://github.com/shivam349/leetcode-sql-50)** | MySQL, PostgreSQL, Relational DB | [50/50 Solutions](https://github.com/shivam349/leetcode-sql-50#curated-solutions-index) |
+| 🌐 **[3D E-Commerce Storefront](https://github.com/shivam349/mithila-makhana-3d-store)** | Three.js, React Three Fiber, GSAP, Next.js | [Live Web Demo](https://codex1-seven.vercel.app) |
+| 🛍️ **[Mithila Organix Store](https://github.com/shivam349/mithila-organix-ecommerce)** | Next.js 16, Razorpay, MongoDB, Zustand | [Live Web Demo](https://mithila-makkhana.vercel.app) |
+| 🎨 **[AI Image Generator](https://github.com/shivam349/ai-image-generator)** | Node.js, Express, Puter.js AI APIs | [Live Web Demo](https://ai-art-generator-six.vercel.app) |
 
 ---
 
@@ -50,7 +93,7 @@ Data Analyst with **2+ years of experience** architecting SQL- and Power BI-driv
   </tr>
   <tr>
     <td width="30%"><strong>🗄️ Databases & Querying</strong></td>
-    <td>SQL, MySQL, PostgreSQL, Relational Schema Design, Query Optimization</td>
+    <td>SQL, MySQL, PostgreSQL, Relational Schema Design, Query Optimization, Window Functions, CTEs</td>
   </tr>
   <tr>
     <td width="30%"><strong>🐍 Languages & Scripting</strong></td>
@@ -58,11 +101,11 @@ Data Analyst with **2+ years of experience** architecting SQL- and Power BI-driv
   </tr>
   <tr>
     <td width="30%"><strong>🤖 AI / ML & Pipelines</strong></td>
-    <td>LangChain, Streamlit, Snorkel, Docker, LLM Data Querying</td>
+    <td>LangChain, Streamlit, Snorkel, Docker, LLM Data Querying, Prompt Engineering</td>
   </tr>
   <tr>
     <td width="30%"><strong>🌐 Web & Cloud Platforms</strong></td>
-    <td>React.js, Next.js, Tailwind CSS, Node.js, Google Cloud Platform (GCP), Firebase, Git/GitHub</td>
+    <td>React.js, Next.js, Three.js, Tailwind CSS, Node.js, Google Cloud Platform (GCP), Firebase, Git/GitHub</td>
   </tr>
 </table>
 
@@ -70,31 +113,9 @@ Data Analyst with **2+ years of experience** architecting SQL- and Power BI-driv
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,docker,nextjs,tailwind,react,js,html,css,firebase,vscode,github,gcp" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,docker,nextjs,tailwind,react,threejs,js,html,css,firebase,vscode,github,gcp" alt="Tech Stack Icons" />
   </a>
 </div>
-
----
-
-## 🚀 Featured Portfolio Projects
-
-<div align="center">
-  <a href="https://github.com/shivam349/retail-analytics-powerbi-sql">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=retail-analytics-powerbi-sql&theme=radical" alt="Retail Analytics BI" width="48%" />
-  </a>
-  <a href="https://github.com/shivam349/langchain-doc-chat-ai">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=langchain-doc-chat-ai&theme=radical" alt="LangChain Doc Chat" width="48%" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/shivam349/mithila-makhana-3d-store">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=mithila-makhana-3d-store&theme=radical" alt="3D E-Commerce Storefront" width="48%" />
-  </a>
-  <a href="https://github.com/shivam349/ai-image-generator">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=ai-image-generator&theme=radical" alt="AI Image Generator" width="48%" />
-  </a>
-</p>
 
 ---
 
