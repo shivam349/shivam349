@@ -2,42 +2,131 @@
 
 # Hi there, I'm Shivam Garg 👋
 
-### Data Analyst | AI & Web Developer
+### 📊 Data Analyst | SQL & Power BI Specialist | AI & Web Developer
+**Transforming Complex Data into Business Intelligence & Scalable Applications**
 
-I specialize in data analytics, database management, and building modern, automated web applications. 
+📍 Bengaluru, India &nbsp;|&nbsp; 🎓 B.Tech, Birla Institute of Technology (BIT), Mesra
 
-[📄 **View My Data Analyst Resume**](#) <!-- Replace # with your actual resume link -->
-
----
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=shivam349&theme=radical&no-frame=true&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📊 Dynamic Stats & Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam349&show_icons=true&theme=radical&hide_border=true" alt="Shivam's GitHub stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=shivam349&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,nextjs,tailwind,react,js,html,css,firebase,vscode,github,gcp" alt="Tech Stack" />
+  <a href="https://linkedin.com/in/shivamgarg-21b25a1b4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:shivamgarg1515@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/shivam349/Data-Analyst">
+    <img src="https://img.shields.io/badge/Portfolio%20Project-FFB900?style=for-the-badge&logo=powerbi&logoColor=black" alt="Portfolio" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" alt="Status" />
 </p>
-
-### 🐍 Contribution Graph Animation
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam349/shivam349/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam349/shivam349/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shivam349/shivam349/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
-### 💡 Daily Programming Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
+</div>
+
+## 👨‍💻 About Me
+
+Data Analyst with **2+ years of experience** architecting SQL- and Power BI-driven reporting for logistics and e-commerce teams. Skilled in data extraction and transformation with Power Query, automated reporting workflows, and production database query optimization. Additionally experienced in building GenAI-powered data tools using **LangChain**, **Streamlit**, and **Docker**.
+
+- 🏢 **Software Engineer / Data Analyst** at **NxTree Technologies** (Aug 2024 – Present)
+  - Built & maintained Power BI dashboards tracking key logistics & e-commerce metrics for business stakeholders.
+  - Automated recurring reporting workflows in Excel & Power BI, significantly reducing manual analytics overhead.
+  - Authored & optimized complex SQL queries on production databases to serve ad-hoc business requests.
+  - Partnered with product and operations teams to translate core business requirements into data models.
+- 🤖 **Freelance AI & Machine Learning Developer** (Jan 2026 – Present)
+  - Engineered machine learning data-labeling workflows using **Snorkel** to expedite training datasets.
+  - Built full-stack LLM data query applications via **LangChain** with interactive **Streamlit** interfaces.
+  - Containerized analytics pipelines and AI applications using **Docker** for resilient deployment.
+- 🎓 **Education**: B.Tech in Electrical & Electronics Engineering — **Birla Institute of Technology, Mesra** (2020 – 2024)
+
+---
+
+## 🛠️ Technical Competencies
+
+<table>
+  <tr>
+    <td width="30%"><strong>📊 BI & Analytics</strong></td>
+    <td>Power BI, DAX, Power Query, Microsoft Excel, Data Modeling, Dashboard Design, Process Automation</td>
+  </tr>
+  <tr>
+    <td width="30%"><strong>🗄️ Databases & Querying</strong></td>
+    <td>SQL, MySQL, PostgreSQL, Relational Schema Design, Query Optimization</td>
+  </tr>
+  <tr>
+    <td width="30%"><strong>🐍 Languages & Scripting</strong></td>
+    <td>Python (Pandas, NumPy), SQL, JavaScript, HTML5, CSS3</td>
+  </tr>
+  <tr>
+    <td width="30%"><strong>🤖 AI / ML & Pipelines</strong></td>
+    <td>LangChain, Streamlit, Snorkel, Docker, LLM Data Querying</td>
+  </tr>
+  <tr>
+    <td width="30%"><strong>🌐 Web & Cloud Platforms</strong></td>
+    <td>React.js, Next.js, Tailwind CSS, Node.js, Google Cloud Platform (GCP), Firebase, Git/GitHub</td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,docker,nextjs,tailwind,react,js,html,css,firebase,vscode,github,gcp" alt="Tech Stack Icons" />
+  </a>
+</div>
+
+---
+
+## 🚀 Featured Portfolio Projects
+
+<div align="center">
+  <a href="https://github.com/shivam349/Data-Analyst">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=Data-Analyst&theme=radical" alt="Data-Analyst Portfolio Project" width="48%" />
+  </a>
+  <a href="https://github.com/shivam349/AI-art-generator">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=AI-art-generator&theme=radical" alt="AI Art Generator" width="48%" />
+  </a>
+</div>
+
+<div align="center">
+  <p>
+    📈 <strong><a href="https://github.com/shivam349/Data-Analyst">Global Electronics Retailer Analytics</a></strong>: End-to-end portfolio project featuring Power BI dashboards, DAX measures, Power Query data extraction, and deep SQL analytics.
+  </p>
+</div>
+
+---
+
+## 📊 Analytics & Consistency
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=shivam349&show_icons=true&theme=radical&hide_border=true" alt="Shivam's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=shivam349&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shivam349&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+## 🐍 Contribution Graph Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam349/shivam349/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam349/shivam349/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shivam349/shivam349/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Daily Programming Inspiration
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Programming Quote" />
+
+<br/><br/>
+
+📫 **Interested in collaborating or discussing opportunities?** Feel free to connect on [LinkedIn](https://linkedin.com/in/shivamgarg-21b25a1b4) or reach out directly at [shivamgarg1515@gmail.com](mailto:shivamgarg1515@gmail.com)!
 
 </div>
