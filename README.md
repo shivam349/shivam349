@@ -14,7 +14,7 @@
   <a href="mailto:shivamgarg1515@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/shivam349/Data-Analyst">
+  <a href="https://github.com/shivam349/retail-analytics-powerbi-sql">
     <img src="https://img.shields.io/badge/Portfolio%20Project-FFB900?style=for-the-badge&logo=powerbi&logoColor=black" alt="Portfolio" />
   </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" alt="Status" />
@@ -79,19 +79,22 @@ Data Analyst with **2+ years of experience** architecting SQL- and Power BI-driv
 ## 🚀 Featured Portfolio Projects
 
 <div align="center">
-  <a href="https://github.com/shivam349/Data-Analyst">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=Data-Analyst&theme=radical" alt="Data-Analyst Portfolio Project" width="48%" />
+  <a href="https://github.com/shivam349/retail-analytics-powerbi-sql">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=retail-analytics-powerbi-sql&theme=radical" alt="Retail Analytics BI" width="48%" />
   </a>
-  <a href="https://github.com/shivam349/AI-art-generator">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=AI-art-generator&theme=radical" alt="AI Art Generator" width="48%" />
+  <a href="https://github.com/shivam349/langchain-doc-chat-ai">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=langchain-doc-chat-ai&theme=radical" alt="LangChain Doc Chat" width="48%" />
   </a>
 </div>
 
-<div align="center">
-  <p>
-    📈 <strong><a href="https://github.com/shivam349/Data-Analyst">Global Electronics Retailer Analytics</a></strong>: End-to-end portfolio project featuring Power BI dashboards, DAX measures, Power Query data extraction, and deep SQL analytics.
-  </p>
-</div>
+<p align="center">
+  <a href="https://github.com/shivam349/mithila-makhana-3d-store">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=mithila-makhana-3d-store&theme=radical" alt="3D E-Commerce Storefront" width="48%" />
+  </a>
+  <a href="https://github.com/shivam349/ai-image-generator">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=ai-image-generator&theme=radical" alt="AI Image Generator" width="48%" />
+  </a>
+</p>
 
 ---
 
