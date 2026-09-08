@@ -14,7 +14,7 @@
   <a href="mailto:shivamgarg1515@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/shivam349/retail-analytics-powerbi-sql">
+  <a href="https://github.com/shivam349/Data-Analyst">
     <img src="https://img.shields.io/badge/Portfolio%20Project-FFB900?style=for-the-badge&logo=powerbi&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://github.com/shivam349/leetcode-sql-50">
@@ -47,8 +47,8 @@ Data Analyst and AI Developer with **2+ years of experience** architecting SQL- 
 ## 🚀 Spotlighted Repositories & Portfolio
 
 <div align="center">
-  <a href="https://github.com/shivam349/retail-analytics-powerbi-sql">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=retail-analytics-powerbi-sql&theme=radical" alt="Retail Analytics BI" width="48%" />
+  <a href="https://github.com/shivam349/Data-Analyst">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=Data-Analyst&theme=radical" alt="Power BI Data Analyst Portfolio" width="48%" />
   </a>
   <a href="https://github.com/shivam349/langchain-doc-chat-ai">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=langchain-doc-chat-ai&theme=radical" alt="LangChain Doc Chat AI" width="48%" />
@@ -75,7 +75,7 @@ Data Analyst and AI Developer with **2+ years of experience** architecting SQL- 
 
 | Spotlighted Project | Domain & Stack | Live Demo / Resource |
 | :--- | :--- | :--- |
-| 📊 **[Retail Analytics BI](https://github.com/shivam349/retail-analytics-powerbi-sql)** | Power BI, DAX, Power Query, SQL | [Project Repo](https://github.com/shivam349/retail-analytics-powerbi-sql) |
+| 📊 **[Power BI Data Analyst Portfolio](https://github.com/shivam349/Data-Analyst)** | Power BI, DAX, Power Query, SQL | [Live Web Portfolio](https://shivam349.github.io/Data-Analyst/) |
 | 🤖 **[LangChain Doc Chat AI](https://github.com/shivam349/langchain-doc-chat-ai)** | Python, LangChain, Streamlit, OpenAI | [Live Web Demo](https://chat-with-env.vercel.app) |
 | 🎯 **[LeetCode SQL 50 Solutions](https://github.com/shivam349/leetcode-sql-50)** | MySQL, PostgreSQL, Relational DB | [50/50 Solutions](https://github.com/shivam349/leetcode-sql-50#curated-solutions-index) |
 | 🌐 **[3D E-Commerce Storefront](https://github.com/shivam349/mithila-makhana-3d-store)** | Three.js, React Three Fiber, GSAP, Next.js | [Live Web Demo](https://codex1-seven.vercel.app) |
