@@ -47,27 +47,24 @@ Data Analyst and AI Developer with **2+ years of experience** architecting SQL- 
 ## 🚀 Spotlighted Repositories & Portfolio
 
 <div align="center">
+  <a href="https://github.com/shivam349/mithila-makhana-3d-store">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=mithila-makhana-3d-store&theme=radical" alt="3D E-Commerce Storefront" width="48%" />
+  </a>
   <a href="https://github.com/shivam349/Data-Analyst">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=Data-Analyst&theme=radical" alt="Power BI Data Analyst Portfolio" width="48%" />
-  </a>
-  <a href="https://github.com/shivam349/langchain-doc-chat-ai">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=langchain-doc-chat-ai&theme=radical" alt="LangChain Doc Chat AI" width="48%" />
   </a>
 </div>
 
 <p align="center">
+  <a href="https://github.com/shivam349/langchain-doc-chat-ai">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=langchain-doc-chat-ai&theme=radical" alt="LangChain Doc Chat AI" width="48%" />
+  </a>
   <a href="https://github.com/shivam349/leetcode-sql-50">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=leetcode-sql-50&theme=radical" alt="LeetCode SQL 50 Solutions" width="48%" />
-  </a>
-  <a href="https://github.com/shivam349/mithila-makhana-3d-store">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=mithila-makhana-3d-store&theme=radical" alt="3D E-Commerce Storefront" width="48%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/shivam349/mithila-organix-ecommerce">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=mithila-organix-ecommerce&theme=radical" alt="Mithila Organix E-Commerce" width="48%" />
-  </a>
   <a href="https://github.com/shivam349/ai-image-generator">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=shivam349&repo=ai-image-generator&theme=radical" alt="AI Image Generator" width="48%" />
   </a>
@@ -75,11 +72,10 @@ Data Analyst and AI Developer with **2+ years of experience** architecting SQL- 
 
 | Spotlighted Project | Domain & Stack | Live Demo / Resource |
 | :--- | :--- | :--- |
+| 🌐 **[3D E-Commerce Storefront](https://github.com/shivam349/mithila-makhana-3d-store)** | Three.js, React Three Fiber, GSAP, Next.js | [Live Web Demo](https://mithilla-makkhana.vercel.app/) |
 | 📊 **[Power BI Data Analyst Portfolio](https://github.com/shivam349/Data-Analyst)** | Power BI, DAX, Power Query, SQL | [Live Web Portfolio](https://shivam349.github.io/Data-Analyst/) |
 | 🤖 **[LangChain Doc Chat AI](https://github.com/shivam349/langchain-doc-chat-ai)** | Python, LangChain, Streamlit, OpenAI | [Live Web Demo](https://chat-with-env.vercel.app) |
 | 🎯 **[LeetCode SQL 50 Solutions](https://github.com/shivam349/leetcode-sql-50)** | MySQL, PostgreSQL, Relational DB | [50/50 Solutions](https://github.com/shivam349/leetcode-sql-50#curated-solutions-index) |
-| 🌐 **[3D E-Commerce Storefront](https://github.com/shivam349/mithila-makhana-3d-store)** | Three.js, React Three Fiber, GSAP, Next.js | [Live Web Demo](https://codex1-seven.vercel.app) |
-| 🛍️ **[Mithila Organix Store](https://github.com/shivam349/mithila-organix-ecommerce)** | Next.js 16, Razorpay, MongoDB, Zustand | [Live Web Demo](https://mithila-makkhana.vercel.app) |
 | 🎨 **[AI Image Generator](https://github.com/shivam349/ai-image-generator)** | Node.js, Express, Puter.js AI APIs | [Live Web Demo](https://ai-art-generator-six.vercel.app) |
 
 ---
